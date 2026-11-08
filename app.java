@@ -10,3 +10,8 @@ class Main {
     System.out.println(first + " + " + second + " = "  + sum);
   }
 }
+
+static void message()
+{
+  System.out.println("Method is called");
+}
