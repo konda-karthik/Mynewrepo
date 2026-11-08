@@ -15,3 +15,8 @@ static void message()
 {
   System.out.println("Method is called");
 }
+
+static void greetings()
+{
+	System.out.println("Welcme to java application");
+}
