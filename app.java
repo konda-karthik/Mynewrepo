@@ -23,4 +23,7 @@ static void greetings()
 
 public static int random(){
 	return int(Math.random());
+
+static int sqrt(int num){
+	return num * num;
 }
