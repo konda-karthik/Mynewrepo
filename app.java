@@ -20,3 +20,7 @@ static void greetings()
 {
 	System.out.println("Welcme to java application");
 }
+
+public static int random(){
+	return int(Math.random());
+}
